@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "http://AbelZemo.github.io/reaact-portfolio",
+  "homepage": "http://AbelZemo.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "@formspree/react": "^2.4.3",
