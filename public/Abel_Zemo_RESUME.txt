@@ -1,0 +1,167 @@
+Abel Zemo
+Email: abelzemot@gmail.com
+Phone: 712-382-4182  
+ 
+       
+Professional Summary
+ 
+Microsoft Database/BI developer with over 5+ years of extensive experience in database design, development, and administration with MS SQL Server versions 2008/2008 R2/2012/2016 using SSIS and SSRS.
+ 
+• Extensive experience and deep knowledge on writing SQL/T-SQL Programming, Store Procedure, Views, Schema, Trigger, Function, and Index.
+• Experience in designing, developing, and maintaining Relational Databases, MSSQL Server 2008/2008 R2/2012/2016.
+• Strong experience in client interaction and understanding business applications, Data Modeling, Data Mapping, Table Normalization.
+• Excellent skill in Database and Data warehousing (OLTP & OLAP).
+• Expert in Data Extraction, Transformation, Loading and deploying SSIS Packages.
+• Experience in logical and physical Dimensional Modeling, ER Modeling, Star Schema / Snowflake Schema, Fact and Dimensional tables and Operational Data Store (ODS).
+• Proficient in Resolving Complex Issues and Error Handling in SSIS.
+• Experience in creating Jobs, Alerts, SQL Mail Agent, and scheduled DTS and SSIS Packages.
+• Excellent skill of SQL Server Reporting Services (SSRS) with Report authoring, Report management, Report delivery and Report security.
+• Managing medium and large databases in 24/7 environment which includes installation, backup/recovery, upgrade and configuration of Microsoft SQL Server and databases.
+• Experience in Project Management and Software Development lifecycle (SDLC).
+• Experience with AGILE SCRUM methodologies.
+• Strong troubleshooting, problem-solving skills, and ability to prioritize multiple tasks.
+• Excellent analytical, Interpersonal and Communication skills, fast learner, hardworking, detail oriented and versatile team player.
+ 
+Professional Experience
+
+ 
+SQL DataBase/BI Developer
+TIAA Financial Services………………………………………………………February 2020 to current
+ 
+    Responsibilities:
+• Analyze business requirements and build conceptual, logical, and physical data models.
+• Involved in complete Software Development Lifecycle (SDLC).
+• Wrote complex SQL queries, stored Procedure, triggers, views & indexes using DML, DDL commands and user defined functions to implement the business logic.
+• Created logins, groups, users, roles, database devices, and databases, mirroring devices, checking for database consistency, monitoring error logs, transaction log space allocations and fine tuning SQL performance.
+• Advised optimization of queries by looking at execution plan for better tuning of database.
+• Wrote T-SQL Queries and procedures to generate DML Scripts that modified database objects dynamically based on inputs.
+• Created SSIS package to import and export data from various CSV files, Flat files, Excel spread sheets and SQL Server and designed and developed different types of reports like matrix, tabular, chart reports using SSRS and power BI
+• Experience using ER diagram, Dimensional data modeling, Logical / Physical Design, Star Schema modeling, Snow-flake modeling.
+• Hands on experience in writing T – SQL queries, procedures, views, indexes and worked on SQL query optimization and tuning. 
+• Strong knowledge of data warehousing including, EXTRACRTING, TRANSFORMING & LOADING processes and developing reports using SSRS and power BI.
+• Hands on experience in Troubleshooting database issues.
+• Strong knowledge about Normalization & De-normalization on existing tables for faster query results.
+• Experience in MS SQL Server Installation, configuration, performance tuning, client/server Connectivity, query optimization, back-up/recovery, running database consistency checks using Database Consistency Checker (DBCC)
+• Sound knowledge and working experience in Agile and waterfall methodology.
+• Experience with Data flow diagrams, Data dictionary, Database normalization theory techniques, Entity relation modelling and designs techniques.
+• T-SQL in constructing database objects such as Tables, Stored Procedure, Triggers, User Functions, Views, Indexes, CTEs
+• Performance Tuning, Query Optimization, Client/Server Connectivity, Data Transformation Services and running Database Consistency Checks Using DBCC.
+• Performing and Monitoring Database Growth, Health and Consistency Checks, Maintenance plans, planning and Scheduling Backup & Recovery etc.
+• Creates, maintains, and optimizes a library of T-SQL queries and SPROCS
+• Models and designs new databases and reporting databases
+• Moving data from staging database in to CRM using Migration Tools
+• Understand Database Development Guidelines & Best Practices
+• Understand and work in an Agile development environment
+• Develop mapping specifications, Source to target mappings and ETL development Perform
+• Develop the workflow and dataflow of SSIS ETL processes to support many different file structures and business processes
+• Perform tasks related to performance tuning of ETL jobs
+• Data loading workflow design and custom enrichment development using leading ETL tools
+• Develop and manage business plans to achieve objectives
+• Working in an agile environment
+• Experience with normalized and dimensional data modeling.
+• Ability to establish and maintain effective working relationships with employees at all levels throughout the institution.
+• Great ability to work both independently and in a team oriented 
+• Strong experience in Software Development Life Cycle (SDLC)
+• Support IT staff and end users
+• 24/7 customer support in Production Development Environment  
+• Create tables, constraints, Store Procedures, Views, Schema, Trigger, Function, and Index.
+• Use SSIS to create ETL packages to validate, extract, transform and load data to data warehouse.
+• Performance tuning of Queries, Stored Procedures and existing ETL packages.
+• Actively involved in the migration of SQL server 2012 to SQL server 2016.
+• Create queries to provide ad hoc reports, analysis and datasets based on business needs.
+• Create reports and dashboards with advanced filter and drill-down capabilities using SSRS.
+• Render reports in different formats like pdf, excel etc. to be executed automatically on weekly or monthly basis and manage subscriptions.
+• Develop various reports and dashboards with Power BI and deploying them to Power BI Services.
+ 
+ 
+ 
+ 
+SQL SERVER DEVELOPER
+AT&T
+Remote ………………………………………………………………………..March 2018 - February 2020
+ 
+Responsibilities:
+
+• Generated Reports using SQL Server Reporting Services (SSRS) and schedule a subscription to send automated emails for the users.
+• Developed SSIS ETL to import data from multiple sources to the application tables.
+• Developed complex Stored Procedure, Queries, Triggers, Functions, Indexes, User-defined functions.
+• Created reports including Crosstab, Conditional, Drill-down, Sub reports; parameterized reports using SSRS.
+• Automated monthly, weekly and daily reports.
+• Managed and configured Data-driven Subscriptions reports to be scheduled on a daily and monthly basis for selected users within the organization.
+• Configured SSIS to Send Mail Task on multiple Control Flow tasks to send email during failure using SMTP Connection manager.
+• Implement stored procedures and effectively query a database
+• Identify and test ETL solution
+• Develop Store procedure and SSIS to pull the data from Multiple sources
+• Coordinated with a team of data engineers and data analysts to design and create data mappings from multiple sources.
+• Designed and implemented facts and dimensions for Data Mart.
+• Used SQL Integration Service (SSIS) to Integrate and transform data from multiple systems into a single platform.
+• Optimized queries and enhanced database performance by using Performance Monitor, SQL Profiler and database tuning advisor.
+• Maintained SQL scripts indexes and complex queries for analysis and extraction.
+• Performed quality testing and assurance for SQL servers.
+• Worked with stakeholder’s developers and production teams across units to identify business needs and solution options.
+• Identified SQL statement with poor performance using the MS performance Monitor and SQL Trace Tools
+• Model data and design database and access plans with ER/Studio 
+• Developed stored procedures, triggers, views and added/modified tables for data load, transformation and extraction 
+• Configured performance tuning and optimization in SQL server 2012 and 2016
+• Performed testing on stored procedures, indexes, and triggers 
+• Performed data migration using bulk insert, bulk copy process (BCP) and SSIS and from SQL Server 2012 and flat files 
+• Worked on different environment and a key resource for deployment of modified objects to production environments 
+• Monitored jobs to make sure all scheduled jobs runs successfully every night. 
+• Performed Technical Analysis, code reviews and Implementation 
+• Create T-SQL code for designated projects
+• Ensure the best possible performance and quality in the packages
+• Provide support and fix issues in the packages
+• Performing and Monitoring Database Growth, Health and Consistency Checks, Maintenance plans, planning and Scheduling Backup & Recovery etc.
+• Creates, maintains, and optimizes a library of T-SQL queries and SPROCS
+• Models and designs new databases and reporting databases
+• Understand Database Development Guidelines & Best Practices
+• Understand and work in an Agile development environment
+• Develop mapping specifications, Source to target mappings and ETL development Perform
+• Develop the workflow and dataflow of SSIS ETL processes to support many different file structures and business processes
+• Perform tasks related to performance tuning of ETL jobs
+• Analyzed data collected in stores (DTS Package, T-SQL, jobs, stored-procedures and queries) and provided reports to the commercial team (Excel, VB Script, Macro)
+• Compiled lists of stores respecting criteria given by client services, while minimizing collection costs (T-SQL, Queries, Views)
+• Assured and checked the quality and the integrity of the data received from the store collectors (T-SQL, Queries, jobs, stored-procedures)
+• Optimized DTS, stored procedures and jobs into SQL Server to increase overall performance and time/server use of daily functions
+• Worked on all activities related to the development, implementation, administration, and support of ETL processes for hospital Data Warehouses using SSIS.
+• Performed efficient tuning of SQL source queries for data load/ Usage of stored procedures for performance.
+• Worked with development teams in the design of physical databases and in modification.
+• Performed Query tuning based on query execution plans, statistics, and profiling.
+• Created complex stored procedures and functions to support efficient data manipulation.
+• Performed capacity planning and growth prediction for client audit data.
+ 
+
+ONSITE
+SQL DBA DEVELOPER
+Libra Technologies…………………………………………………………… Augest 2016 to October 2017  
+
+Responsibilities:
+•	Perform coding migration, database change management & data management through the various stages of the development life cycle
+•	Assist System Development Manager in developing queries, executing scripts, patches, reports, and monitoring
+•	Assist System Development Manager in development, setting up and managing automated backups
+•	Assist System Development Manager in Microsoft SQL Server management and database maintenance
+•	Assist System Development Manager in performance tuning and database optimization
+•	Identifying performance improvements to database procedures and data structures and working with Development teams to deliver code changes
+•	Provide accurate effort estimates of the work involved even when others will be performing the actual programming work
+•	Excellent work ethic, professionalism, attention to detail, ability to work in a highly collaborative, collegial, and multidisciplinary team environment
+•	Excellent analytical skills with the ability to manage time, priorities, and requests. Excellent communication and interpersonal skills
+•	Strong knowledge of database recovery models, high-availability (HA) and disaster recovery (DR) options for SQL Server
+•	Ability to produce quality work products with attention to detail
+•	Good working knowledge of mortgage industry and mortgage business processes
+•	Highly self-motivated and adaptable to learning and understanding new technologies
+•	Good interpersonal skills; solid team player
+•	Strong knowledge of stored procedures and triggers
+•	Certified professional in MS SQL highly recommended
+•	Experience with building a highly available environment (log mirroring/log shipping)
+
+
+Technical skills
+ 
+• DBMS: SQL Server 2008/2008R2/2012/2016
+• Programming Languages: T-SQL
+• BI and Data Analytics Tools:  SSIS, SSRS, Power BI, Tableau
+• Performance Tuning Tools: SQL Execution Plan
+• Data Migration:  Data Migration Assistant
+• Job scheduler: SQL server agent
+• Operating Systems: Windows, Linux
+• Office Tools: MS Word, PowerPoint, MS Excel

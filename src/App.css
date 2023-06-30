@@ -1,0 +1,201 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #E7E9EB;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.danger {
+  color: red;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  background-color: #FFFFFF;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+input,
+label,
+textarea,
+.column {
+  width: 300px;
+  border-radius: 10px;
+}
+
+input {
+  height: 30px;
+}
+
+.column {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 20px;
+  background-color: #FFFFFF;
+  width: 90%;
+}
+
+.about-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: #E4EBE4;
+  padding: 20px;
+  align-items: center;
+}
+
+.about-content {
+  text-shadow: #E4EBE4;
+  padding: 20px;
+  min-height: 300px;
+  width: 400px;
+  border-left: 12px solid rgb(151, 125, 125);
+}
+
+.resume,
+.contact-page {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  background-color: #E4EBE4;
+  padding: 20px;
+  min-height: 500px;
+}
+
+.project-page {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+  min-height: 500px;
+}
+
+button {
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer.footer {
+  background-color: rgb(255, 255, 255);
+}
+
+.profile-pic {
+  clip-path: circle();
+  width: 250px;
+  margin-right: 20px;
+}
+
+#name {
+  font-weight: bold;
+  font-size: 16px;
+  font-family: 'georgia';
+  font-weight: bold;
+
+}
+
+#response {
+  color: green;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: 'georgia';
+  font-weight: bold;
+}
+
+.project-content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #E4EBE4;
+  border-radius: 12px;
+  width: 200px;
+  flex: 1 0 21%;
+  /* explanation below */
+  margin: 20px;
+}
+
+.title {
+  padding-right: 20px;
+  color: green;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'georgia';
+  font-weight: bold;
+}
+
+#project-image {
+  clip-path: circle();
+  width: 50px;
+}
+
+.project-description {
+  padding: 30px;
+  border-top: 5px solid rgb(223, 213, 213);
+
+}
+
+.skill {
+  width: 700px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px
+}
+
+#skill {
+  width: 300px;
+}
+
+.welcome {
+  min-height: 100px;
+}
+
+.welcome-pic {
+  border-radius: 12px;
+  width: 100%;
+  height: 500px;
+}
